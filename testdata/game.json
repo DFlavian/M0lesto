@@ -1,0 +1,172 @@
+ {
+  "start": "2022-06-10T15:00:00+02:00",
+  "rounds": 90,
+  "freeze": 91,
+  "roundTime": 120,
+  "flagLifetime": 5,
+  "teams": [
+    {
+      "name": "NOP Team",
+      "logo": "cybersecnatlab",
+      "nop": true
+    },
+    {
+      "name": "Accademia Aeronautica di Pozzuoli",
+      "logo": "aeronautica"
+    },
+    {
+      "name": "Alma Mater Studiorum - Università di Bologna",
+      "logo": "unibo"
+    },
+    {
+      "name": "Centro di Competenza in Cybersecurity Toscano",
+      "logo": "c3t"
+    },
+    {
+      "name": "Comando per la Formazione e Scuola di Applicazione dell'Esercito",
+      "logo": "esercito"
+    },
+    {
+      "name": "Politecnico di Bari",
+      "logo": "poliba"
+    },
+    {
+      "name": "Politecnico di Milano",
+      "logo": "polimi"
+    },
+    {
+      "name": "Politecnico di Torino",
+      "logo": "polito"
+    },
+    {
+      "name": "Sapienza Università di Roma",
+      "logo": "unirm1"
+    },
+    {
+      "name": "Università Ca' Foscari Venezia",
+      "logo": "unive2"
+    },
+    {
+      "name": "Università degli Studi dell'Aquila",
+      "logo": "univaq"
+    },
+    {
+      "name": "Università degli Studi di Bari Aldo Moro",
+      "logo": "uniba"
+    },
+    {
+      "name": "Università degli Studi di Cagliari",
+      "logo": "unica"
+    },
+    {
+      "name": "Università degli Studi di Camerino",
+      "logo": "unicam"
+    },
+    {
+      "name": "Università degli Studi di Catania",
+      "logo": "unict"
+    },
+    {
+      "name": "Università degli Studi di Ferrara",
+      "logo": "unife"
+    },
+    {
+      "name": "Università degli Studi di Genova",
+      "logo": "unige"
+    },
+    {
+      "name": "Università degli Studi di Messina",
+      "logo": "unime"
+    },
+    {
+      "name": "Università degli Studi di Milano",
+      "logo": "unimi"
+    },
+    {
+      "name": "Università degli Studi di Milano-Bicocca",
+      "logo": "unimib"
+    },
+    {
+      "name": "Università degli Studi di Padova",
+      "logo": "unipd"
+    },
+    {
+      "name": "Università degli Studi di Palermo",
+      "logo": "unipa"
+    },
+    {
+      "name": "Università degli Studi di Parma",
+      "logo": "unipr"
+    },
+    {
+      "name": "Università degli Studi di Perugia",
+      "logo": "unipg"
+    },
+    {
+      "name": "Università degli Studi di Salerno",
+      "logo": "unisa"
+    },
+    {
+      "name": "Università degli Studi di Trento",
+      "logo": "unitn"
+    },
+    {
+      "name": "Università degli Studi di Udine",
+      "logo": "uniud"
+    },
+    {
+      "name": "Università degli Studi di Verona",
+      "logo": "univr"
+    },
+    {
+      "name": "Università del Salento",
+      "logo": "unisalento"
+    },
+    {
+      "name": "Università della Calabria",
+      "logo": "unical"
+    },
+    {
+      "name": "Università della Campania Luigi Vanvitelli",
+      "logo": "unicampania"
+    },
+    {
+      "name": "Università di Napoli",
+      "logo": "napoli"
+    },
+    {
+      "name": "Università di Pisa",
+      "logo": "unipi"
+    },
+    {
+      "name": "Università Mediterranea di Reggio Calabria",
+      "logo": "unirc"
+    },
+    {
+      "name": "Università Politecnica delle Marche",
+      "logo": "univpm"
+    }
+  ],
+  "services": [
+    {
+      "name": "SaaS",
+      "startingScore": 5000,
+      "timeout": 30000
+    },
+    {
+      "name": "CTFe 1",
+      "startingScore": 5000,
+      "timeout": 30000
+    },
+    {
+      "name": "CTFe 2",
+      "startingScore": 5000,
+      "timeout": 30000
+    },
+    {
+      "name": "NotABook",
+      "startingScore": 5000,
+      "timeout": 30000
+    }
+  ]
+}

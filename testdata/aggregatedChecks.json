@@ -1,0 +1,701 @@
+[{
+    "teamId": 0,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 0,
+    "serviceId": 1,
+    "successfulChecks": 54,
+    "totalChecks": 58
+}, {
+    "teamId": 0,
+    "serviceId": 2,
+    "successfulChecks": 53,
+    "totalChecks": 58
+}, {
+    "teamId": 0,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 1,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 1,
+    "serviceId": 1,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 1,
+    "serviceId": 2,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 1,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 2,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 2,
+    "serviceId": 1,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 2,
+    "serviceId": 2,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 2,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 3,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 3,
+    "serviceId": 1,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 3,
+    "serviceId": 2,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 3,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 4,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 4,
+    "serviceId": 1,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 4,
+    "serviceId": 2,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 4,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 5,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 5,
+    "serviceId": 1,
+    "successfulChecks": 52,
+    "totalChecks": 58
+}, {
+    "teamId": 5,
+    "serviceId": 2,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 5,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 6,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 6,
+    "serviceId": 1,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 6,
+    "serviceId": 2,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 6,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 7,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 7,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 7,
+    "serviceId": 2,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 7,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 8,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 8,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 8,
+    "serviceId": 2,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 8,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 9,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 9,
+    "serviceId": 1,
+    "successfulChecks": 53,
+    "totalChecks": 58
+}, {
+    "teamId": 9,
+    "serviceId": 2,
+    "successfulChecks": 44,
+    "totalChecks": 58
+}, {
+    "teamId": 9,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 10,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 10,
+    "serviceId": 1,
+    "successfulChecks": 45,
+    "totalChecks": 58
+}, {
+    "teamId": 10,
+    "serviceId": 2,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 10,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 11,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 11,
+    "serviceId": 1,
+    "successfulChecks": 45,
+    "totalChecks": 58
+}, {
+    "teamId": 11,
+    "serviceId": 2,
+    "successfulChecks": 40,
+    "totalChecks": 58
+}, {
+    "teamId": 11,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 12,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 12,
+    "serviceId": 1,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 12,
+    "serviceId": 2,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 12,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 13,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 13,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 13,
+    "serviceId": 2,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 13,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 14,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 14,
+    "serviceId": 1,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 14,
+    "serviceId": 2,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 14,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 15,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 15,
+    "serviceId": 1,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 15,
+    "serviceId": 2,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 15,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 16,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 16,
+    "serviceId": 1,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 16,
+    "serviceId": 2,
+    "successfulChecks": 53,
+    "totalChecks": 58
+}, {
+    "teamId": 16,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 17,
+    "serviceId": 0,
+    "successfulChecks": 45,
+    "totalChecks": 58
+}, {
+    "teamId": 17,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 17,
+    "serviceId": 2,
+    "successfulChecks": 52,
+    "totalChecks": 58
+}, {
+    "teamId": 17,
+    "serviceId": 3,
+    "successfulChecks": 56,
+    "totalChecks": 58
+}, {
+    "teamId": 18,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 18,
+    "serviceId": 1,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 18,
+    "serviceId": 2,
+    "successfulChecks": 45,
+    "totalChecks": 58
+}, {
+    "teamId": 18,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 19,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 19,
+    "serviceId": 1,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 19,
+    "serviceId": 2,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 19,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 20,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 20,
+    "serviceId": 1,
+    "successfulChecks": 52,
+    "totalChecks": 58
+}, {
+    "teamId": 20,
+    "serviceId": 2,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 20,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 21,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 21,
+    "serviceId": 1,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 21,
+    "serviceId": 2,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 21,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 22,
+    "serviceId": 0,
+    "successfulChecks": 56,
+    "totalChecks": 58
+}, {
+    "teamId": 22,
+    "serviceId": 1,
+    "successfulChecks": 53,
+    "totalChecks": 58
+}, {
+    "teamId": 22,
+    "serviceId": 2,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 22,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 23,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 23,
+    "serviceId": 1,
+    "successfulChecks": 46,
+    "totalChecks": 58
+}, {
+    "teamId": 23,
+    "serviceId": 2,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 23,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 24,
+    "serviceId": 0,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 24,
+    "serviceId": 1,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 24,
+    "serviceId": 2,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 24,
+    "serviceId": 3,
+    "successfulChecks": 54,
+    "totalChecks": 58
+}, {
+    "teamId": 25,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 25,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 25,
+    "serviceId": 2,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 25,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 26,
+    "serviceId": 0,
+    "successfulChecks": 42,
+    "totalChecks": 58
+}, {
+    "teamId": 26,
+    "serviceId": 1,
+    "successfulChecks": 34,
+    "totalChecks": 58
+}, {
+    "teamId": 26,
+    "serviceId": 2,
+    "successfulChecks": 35,
+    "totalChecks": 58
+}, {
+    "teamId": 26,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 27,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 27,
+    "serviceId": 1,
+    "successfulChecks": 43,
+    "totalChecks": 58
+}, {
+    "teamId": 27,
+    "serviceId": 2,
+    "successfulChecks": 40,
+    "totalChecks": 58
+}, {
+    "teamId": 27,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 28,
+    "serviceId": 0,
+    "successfulChecks": 21,
+    "totalChecks": 58
+}, {
+    "teamId": 28,
+    "serviceId": 1,
+    "successfulChecks": 42,
+    "totalChecks": 58
+}, {
+    "teamId": 28,
+    "serviceId": 2,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 28,
+    "serviceId": 3,
+    "successfulChecks": 50,
+    "totalChecks": 58
+}, {
+    "teamId": 29,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 29,
+    "serviceId": 1,
+    "successfulChecks": 53,
+    "totalChecks": 58
+}, {
+    "teamId": 29,
+    "serviceId": 2,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 29,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 30,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 30,
+    "serviceId": 1,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 30,
+    "serviceId": 2,
+    "successfulChecks": 47,
+    "totalChecks": 58
+}, {
+    "teamId": 30,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 31,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 31,
+    "serviceId": 1,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 31,
+    "serviceId": 2,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 31,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 32,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 32,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 32,
+    "serviceId": 2,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 32,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 33,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 33,
+    "serviceId": 1,
+    "successfulChecks": 51,
+    "totalChecks": 58
+}, {
+    "teamId": 33,
+    "serviceId": 2,
+    "successfulChecks": 49,
+    "totalChecks": 58
+}, {
+    "teamId": 33,
+    "serviceId": 3,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 34,
+    "serviceId": 0,
+    "successfulChecks": 57,
+    "totalChecks": 58
+}, {
+    "teamId": 34,
+    "serviceId": 1,
+    "successfulChecks": 48,
+    "totalChecks": 58
+}, {
+    "teamId": 34,
+    "serviceId": 2,
+    "successfulChecks": 44,
+    "totalChecks": 58
+}, {
+    "teamId": 34,
+    "serviceId": 3,
+    "successfulChecks": 54,
+    "totalChecks": 58
+}]

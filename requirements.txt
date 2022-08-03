@@ -1,0 +1,5 @@
+python-dotenv
+disnake
+pymongo
+sqlalchemy
+importlib

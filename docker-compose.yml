@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  #bot:
+  #  build: .
+  #  depends_on: 
+  #    - mongodb
+  mongodb:
+    image: mongo
+    environment:
+      - PUID=1000
+      - PGID=1000
+    ports:
+      - 27017:27017

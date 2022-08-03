@@ -1,0 +1,2521 @@
+[{
+    "teamId": 27,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 17,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 13,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 26,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 14,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 19,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 11,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 13,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 11,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 104,
+    "stdout": "Index page returned status code != 200\n"
+}, {
+    "teamId": 8,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 7,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 16,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 29,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 29,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 20,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 10,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 21,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 25,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 30,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 3,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 32,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 104,
+    "stdout": "Index page returned status code != 200\n"
+}, {
+    "teamId": 29,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 8,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 10,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 21,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 16,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 15,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 6,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 26,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 104,
+    "stdout": "Number of seeds for the game has been altered.\n"
+}, {
+    "teamId": 25,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 24,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 21,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 8,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 28,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 29,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 26,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 18,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 13,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 26,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 13,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 28,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 28,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 22,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 12,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 0,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 13,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 32,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 20,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 18,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 12,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 29,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 18,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 33,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 8,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Cannot register a new account\n"
+}, {
+    "teamId": 33,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 7,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 26,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 104,
+    "stdout": "Number of seeds for the game has been altered.\n"
+}, {
+    "teamId": 20,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 13,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 24,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 104,
+    "stdout": "HTTP connection error.\n"
+}, {
+    "teamId": 18,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 4,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 34,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 3,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 28,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 24,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 7,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 26,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 32,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 10,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 28,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 29,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 21,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 30,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 28,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 23,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 2,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 11,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 1,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 25,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 30,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 22,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 2,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "Number of seeds for the game has been altered.\n"
+}, {
+    "teamId": 2,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 6,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 32,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 22,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 21,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 6,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 6,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 18,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 14,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 8,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 27,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 17,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 9,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 10,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 15,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 17,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 14,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 18,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 10,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 33,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 10,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 26,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 6,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 21,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 0,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 22,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 26,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 21,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 4,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 21,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 19,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 13,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 1,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 10,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 8,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 19,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 8,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 8,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 29,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 18,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 27,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 31,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 13,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 18,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 33,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 21,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 29,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 31,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 34,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 29,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 26,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 8,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 8,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 7,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 8,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 10,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 25,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 23,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 9,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 2,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 1,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 13,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 12,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 3,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 12,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 5,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 23,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 23,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 18,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 6,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 33,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 33,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 8,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 24,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 1,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 28,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 0,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 5,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 31,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 18,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 21,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 29,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 32,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 7,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 10,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 6,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 28,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 26,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 4,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 15,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 1,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 28,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 28,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 11,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 10,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 9,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 22,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 1,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 4,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 13,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 30,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 5,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 21,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 24,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 2,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 15,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 31,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 29,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 6,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 30,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 19,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 13,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 18,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 104,
+    "stdout": "Old flag not found.\n"
+}, {
+    "teamId": 34,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 9,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 3,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 31,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 21,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 6,
+    "serviceId": 2,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 12,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 2,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 29,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 13,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 26,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 1,
+    "stdout": ""
+}, {
+    "teamId": 16,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 28,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 14,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 17,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 14,
+    "serviceId": 1,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 6,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 0,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 18,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 15,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 27,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 26,
+    "serviceId": 0,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 3,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 17,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 20,
+    "serviceId": 0,
+    "action": "PUT_FLAG",
+    "exitCode": 101,
+    "stdout": ""
+}, {
+    "teamId": 34,
+    "serviceId": 2,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 32,
+    "serviceId": 3,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 10,
+    "serviceId": 0,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 34,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 25,
+    "serviceId": 3,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 16,
+    "serviceId": 1,
+    "action": "GET_FLAG",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 6,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 28,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 10,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 19,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 6,
+    "serviceId": 2,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}, {
+    "teamId": 3,
+    "serviceId": 1,
+    "action": "CHECK_SLA",
+    "exitCode": 101,
+    "stdout": "\n"
+}]

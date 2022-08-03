@@ -1,0 +1,841 @@
+[{
+    "teamId": 0,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 0,
+    "serviceId": 1,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 0,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 0,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 1,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 1,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 1,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 2,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 2,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 2,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 3,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 3,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 3,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 4,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 27,
+    "serviceId": 1,
+    "score": 5022.0839373064755,
+    "stolen": 6,
+    "lost": 5
+}, {
+    "teamId": 4,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 4,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 5,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 5,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 5,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 6,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 6,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 6,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 7,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 7,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 6,
+    "lost": 51
+}, {
+    "teamId": 7,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 8,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 5,
+    "serviceId": 1,
+    "score": 11878.038514290482,
+    "stolen": 750,
+    "lost": 10
+}, {
+    "teamId": 8,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 8,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 9,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 9,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 9,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 10,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 10,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 10,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 11,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 23,
+    "serviceId": 1,
+    "score": 4565.4214247838,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 11,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 11,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 12,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 12,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 12,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 13,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 13,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 13,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 14,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 14,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 14,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 15,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 15,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 15,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 16,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 16,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 16,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 17,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 17,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 17,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 18,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 18,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 18,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 19,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 19,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 19,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 20,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 20,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 20,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 21,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 21,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 21,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 22,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 22,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 22,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 23,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 23,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 23,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 24,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 24,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 24,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 25,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 25,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 25,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 26,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 26,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 26,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 27,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 27,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 27,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 28,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 28,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 28,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 29,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 19,
+    "serviceId": 1,
+    "score": 4723.544939268375,
+    "stolen": 1,
+    "lost": 25
+}, {
+    "teamId": 29,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 29,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 30,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 30,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 30,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 31,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 31,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 31,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 32,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 9,
+    "serviceId": 1,
+    "score": 4552.537180143071,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 32,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 32,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 33,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 33,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 33,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 30,
+    "serviceId": 1,
+    "score": 4579.862475523671,
+    "stolen": 0,
+    "lost": 45
+}, {
+    "teamId": 10,
+    "serviceId": 1,
+    "score": 4552.324111537597,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 18,
+    "serviceId": 1,
+    "score": 4954.153385403887,
+    "stolen": 0,
+    "lost": 3
+}, {
+    "teamId": 6,
+    "serviceId": 1,
+    "score": 4553.609074294573,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 16,
+    "serviceId": 1,
+    "score": 4555.278115845899,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 1,
+    "serviceId": 1,
+    "score": 4470.791518701277,
+    "stolen": 0,
+    "lost": 52
+}, {
+    "teamId": 2,
+    "serviceId": 1,
+    "score": 4549.451841455777,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 15,
+    "serviceId": 1,
+    "score": 4552.488501579842,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 20,
+    "serviceId": 1,
+    "score": 4659.712423368576,
+    "stolen": 6,
+    "lost": 46
+}, {
+    "teamId": 22,
+    "serviceId": 1,
+    "score": 4551.452572156966,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 21,
+    "serviceId": 1,
+    "score": 4552.7469636145615,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 26,
+    "serviceId": 1,
+    "score": 4712.74900774977,
+    "stolen": 0,
+    "lost": 33
+}, {
+    "teamId": 12,
+    "serviceId": 1,
+    "score": 4552.614297783082,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 25,
+    "serviceId": 1,
+    "score": 4564.899564169512,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 24,
+    "serviceId": 1,
+    "score": 4565.321264903975,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 13,
+    "serviceId": 1,
+    "score": 4566.439831187373,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 28,
+    "serviceId": 1,
+    "score": 4574.988285958796,
+    "stolen": 1,
+    "lost": 47
+}, {
+    "teamId": 7,
+    "serviceId": 1,
+    "score": 4552.455069572759,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 3,
+    "serviceId": 1,
+    "score": 4558.857661764524,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 31,
+    "serviceId": 1,
+    "score": 4570.295596454479,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 17,
+    "serviceId": 1,
+    "score": 4553.807023594273,
+    "stolen": 0,
+    "lost": 47
+}, {
+    "teamId": 14,
+    "serviceId": 1,
+    "score": 4566.485440157153,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 33,
+    "serviceId": 1,
+    "score": 4617.669801076003,
+    "stolen": 4,
+    "lost": 47
+}, {
+    "teamId": 34,
+    "serviceId": 0,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 34,
+    "serviceId": 2,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 34,
+    "serviceId": 3,
+    "score": 5000,
+    "stolen": 0,
+    "lost": 0
+}, {
+    "teamId": 34,
+    "serviceId": 1,
+    "score": 4763.272149597014,
+    "stolen": 0,
+    "lost": 25
+}, {
+    "teamId": 32,
+    "serviceId": 1,
+    "score": 4535.601267941853,
+    "stolen": 0,
+    "lost": 48
+}, {
+    "teamId": 29,
+    "serviceId": 1,
+    "score": 4517.52792553838,
+    "stolen": 0,
+    "lost": 49
+}, {
+    "teamId": 8,
+    "serviceId": 1,
+    "score": 4568.795678426817,
+    "stolen": 0,
+    "lost": 46
+}, {
+    "teamId": 11,
+    "serviceId": 1,
+    "score": 10944.7235271508,
+    "stolen": 627,
+    "lost": 22
+}, {
+    "teamId": 4,
+    "serviceId": 1,
+    "score": 4439.999627698621,
+    "stolen": 0,
+    "lost": 54
+}]
